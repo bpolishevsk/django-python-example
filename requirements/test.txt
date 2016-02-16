@@ -1,0 +1,17 @@
+# requirements/test.txt
+
+-r common.txt
+
+# Linting
+pylint==1.5.4
+
+# Testing
+# pytest
+# pytest-django
+# pytest-pep8
+# pytest-cov
+# tox
+# pep8
+
+# Coverage
+coverage==4.1b2
