@@ -1,0 +1,7 @@
+# requirements/dev.txt
+
+-r common.txt
+
+# Debugging
+ipdb==0.8.2
+django-debug-toolbar==1.4
