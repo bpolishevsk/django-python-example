@@ -36,20 +36,3 @@ Quick start
 
 5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
 
-Demo example
-------------
-
-This repository include a Django 1.9.2 project that has configured with *django-polls* app.
-
-1. Access to `example` directory in this repository.
-
-2. Install the *django-polls* requirements, into a Python virtualenv like this::
-
-    pip install -r requirements/dev.txt
-
-3. Run `python manage.py migrate` to create the polls models.
-
-4. Start the development server and visit http://127.0.0.1:8000/admin/
-   to create a poll (you'll need the Admin app enabled).
-
-5. Visit http://127.0.0.1:8000/polls/ to participate in the poll.
